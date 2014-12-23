@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+    
+    When we initialize a repository, it creates a new sub directory named 
+    .git which contains all the necessary repository files.
+    
+    We need to initialize if we want to track the versioning of the files 
+    in that directory.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+    
+    Working directory is an ongoing work-in-progress directory. Developers keep 
+    making changes. Once, we know there will be no changes to some file, it can
+    be committed. But, there need to be an intermediate server to commit the files
+    and there should be a possibility to anticipate any unforeseen errors that
+    might occur during commit.
+    
+    This intermediate server is named as Staging directory and it is very helpful.
+    
