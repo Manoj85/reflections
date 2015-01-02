@@ -9,5 +9,14 @@ stay up-to-date with your remote repository?
   to check whether the code will not break the application and if it does, then the buggy 
   code needs to be fixed so that i can pull it.
   
-
-
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+   Branches add new changes in the same repository. Forks and clones copy any repository
+   into a new location. Forks works between GitHub accounts only. Clone works on any Git
+   repository and make a copy to any location where the user has access.
+   
+   When collaborating in a team, branching will be a good choice of adding new changes and
+   maintaining reference to each changes as in versions. If i want to work on any repository
+   and make my changes locally, then i will clone it to my local system. If i want to make 
+   any changes (my own changes) to a repository publically, I use fork.
+ 
