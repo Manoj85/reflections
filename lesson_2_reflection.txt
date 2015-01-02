@@ -47,6 +47,10 @@ diagram the way we do?
     The diagram representation is an easy way to see the information about branches, its 
     commits and so it will be easy for us to identify when exactly we can merge.
     
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+    When the two branches consist of code which are completely different, then automatic
+    merging will save time. But, when there is a situation that needs human intervention
+    and to check thereby causing no conflicts, then manual merging comes into play.
 
  
