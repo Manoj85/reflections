@@ -3,5 +3,11 @@ When would you want to create a remote repository rather than keeping all your w
   people should be able to see my code. Also, when i am working from two different
   locations/machines.
   
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+  With manual pulling, the control is with me in regards to any code changes. I might want
+  to check whether the code will not break the application and if it does, then the buggy 
+  code needs to be fixed so that i can pull it.
+  
 
 
