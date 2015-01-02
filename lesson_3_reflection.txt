@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+  The ideal situation is when we work with a group of people on some project and other
+  people should be able to see my code. Also, when i am working from two different
+  locations/machines.
+  
+
+
