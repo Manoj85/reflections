@@ -20,3 +20,10 @@ instead of another?
    and make my changes locally, then i will clone it to my local system. If i want to make 
    any changes (my own changes) to a repository publically, I use fork.
  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    Having local copy of the remote will help us to know the status of the remote version 
+    when we in offline mode. In this way, we do not need to worry if the changes might
+    conflict or any other things. Also, we can merge the local changes even when we are 
+    offline.
+    
+    
