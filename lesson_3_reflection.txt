@@ -26,4 +26,11 @@ What is the benefit of having a copy of the last known state of the remote store
     conflict or any other things. Also, we can merge the local changes even when we are 
     offline.
     
-    
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder? 
+    If i have to collaborate with other developers working on the same project without using
+    Git and GitHub, i would check with DropBox or GoogleDocs. The drwaback is that i do not
+    get all the facilities provided by Git/GitHub, but collaboration will be easier. But, when 
+    two people on the team working on same file, same functionality, then there might be 
+    a high chance that bugs will arise and need to check it manually each and every time which
+    is time consuming.
