@@ -39,4 +39,6 @@ When would you want to make changes in a separate branch rather than directly in
 What benefits does each approach have?
     When working with a group of people, it will be good to work on separate branch and then
     after proper review, merging into the master branch. Otherwise, sometimes it might 
-    introduce new issues. If i am working alone, i prefer to directly make changes in the master.
+    introduce new issues. If i am working alone, i prefer to directly make changes in the 
+    master. Branching separates the different logical views and when time comes to merge
+    all those logical views and changes, it will be be great value.
