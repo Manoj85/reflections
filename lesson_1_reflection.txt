@@ -47,4 +47,6 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I want to try to create files through Git and try to commit and checkout functionalities.
+    I want to try to create files through Git branching and commit after few logical
+    changes and see how i can see the history of it using diff. In this way, i will try 
+    get some familiarity of using Git.
