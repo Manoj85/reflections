@@ -6,6 +6,9 @@ What happens when you initialize a repository? Why do you need to do it?
     We need to initialize if we want to track the versioning of the files 
     in that directory.
 
+    If i did not create a repository, git can create a directory and save 
+    the versions but tracking is not possible.
+
 How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
     
