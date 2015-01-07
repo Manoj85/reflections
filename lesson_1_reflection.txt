@@ -2,7 +2,8 @@ How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
     It checks the both versions of the file line-by-line and displays the results
-    in such a manner giving the differences explicitly which is very clear and helpful.
+    in such a manner giving the differences explicitly which is very clear and 
+    helpful. 
 
 How could having easy access to the entire history of a file make you a better
 programmer in the long term?
@@ -19,11 +20,12 @@ docs does?
     
     Manual commit gives flexibility to save versions when we think is good.
     Manual commit drawback is user need to remember and commit at certain time; 
-    if he forgets and commit at later time, that might not be a good scenario.
+    if he forgets and commit at later time, that might not be a good scenario. With this
+    i can commit whenever i wanted to.
 
     Automatic commit allows us to relax because it commits at regular intervals.
-    User doesn't need to remember to commit.
-    The drawback is that it will create lot of commits and it will be very hard to
+    User doesn't need to remember to commit. The drawback is that it will create 
+    lot of commits and it will be very hard to
     compare the versions at a later time.
 
 Why do you think some version control systems, like Git, allow saving multiple
